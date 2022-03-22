@@ -16,7 +16,7 @@ default_pals <- function() {
         "HEOR Primary accents" = c("#35227C", "#0069A7", "#484B5D"),
         "HEOR Secondary" = c("#F3CD00", "#FF6C0E", "#CE0E2D", "#CC5599", "#2A7DE1", 
                              "#002F6D", "#005E85", "#71A850", "#DAE343", "#00AE78", "#A9989D"),
-        "HEOR Secondary accents" <- c("#F1C500", "#DF4602", "#AA182C", "#9A0051", "#0047BB", 
+        "HEOR Secondary accents" = c("#F1C500", "#DF4602", "#AA182C", "#9A0051", "#0047BB", 
                                       "#002755", "#00416B", "#547F3B", "#A5AC00", "#007A58", "#7A6569")
       ),
       Viridis = list(
