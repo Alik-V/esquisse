@@ -41,7 +41,7 @@ esquisserUI <- function(id, header = TRUE,
 
   box_title <- tags$div(
     class = "esquisse-title-container",
-    tags$h1("Esquisse", class = "esquisse-title"),
+    tags$h1("HEOR Plot Builder (powered by ggplot2 and esquisse)", class = "esquisse-title"),
     tags$div(
       class = "pull-right",
       actionButton(
