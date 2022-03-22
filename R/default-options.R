@@ -18,7 +18,7 @@ default_pals <- function() {
                              "#002F6D", "#005E85", "#71A850", "#DAE343", "#00AE78", "#A9989D"),
         "HEOR Secondary accents" <- c("#F1C500", "#DF4602", "#AA182C", "#9A0051", "#0047BB", 
                                       "#002755", "#00416B", "#547F3B", "#A5AC00", "#007A58", "#7A6569")
-      )
+      ),
       Viridis = list(
         "viridis" = viridis_pal(option = "viridis")(10),
         "magma" = viridis_pal(option = "magma")(10),
