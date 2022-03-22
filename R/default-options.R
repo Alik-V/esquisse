@@ -6,12 +6,12 @@
 default_pals <- function() {
   pals <- list(
     choices = list(
-      # Default = list("ggplot2" = hue_pal()(9)),
-      Default = list("HEOR Default" = c("#6258B1", "#00B2E3", "#676F7F", "#F3CD00", 
-                                        "#FF6C0E", "#CE0E2D", "#CC5599", "#2A7DE1", 
-                                        "#002F6D", "#005E85", "#71A850", "#DAE343", 
-                                        "#00AE78", "#A9989D")),
+      Default = list("ggplot2" = hue_pal()(9)),
       HEOR = list(
+        "HEOR Primary + Secondary" = c("#6258B1", "#00B2E3", "#676F7F", "#F3CD00", 
+                        "#FF6C0E", "#CE0E2D", "#CC5599", "#2A7DE1", 
+                        "#002F6D", "#005E85", "#71A850", "#DAE343", 
+                        "#00AE78", "#A9989D"),
         "HEOR Primary" = c("#6258B1", "#00B2E3", "#676F7F"),
         "HEOR Primary accents" = c("#35227C", "#0069A7", "#484B5D"),
         "HEOR Secondary" = c("#F3CD00", "#FF6C0E", "#CE0E2D", "#CC5599", "#2A7DE1", 
